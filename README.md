@@ -3,6 +3,7 @@ https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classifi
 
 ## Team Name： from models import resnet
 Rank:46/1874
+
 https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/leaderboard
 
 ## Install
